@@ -1,0 +1,8 @@
+{
+  "name": "Remix Remix Remix Remix Remix Ribbon \u0026 Rose — Our Keepsake",
+  "description": "A coquette-themed romantic keepsake website featuring two framed couple portraits, an interactive love letter envelope, and date coupons.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
